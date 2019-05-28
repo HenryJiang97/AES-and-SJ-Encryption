@@ -1,0 +1,9 @@
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\bin\Debug\SimpleDecrypt.exe.config
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\bin\Debug\SimpleDecrypt.exe
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\bin\Debug\SimpleDecrypt.pdb
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\obj\Debug\SimpleDecrypt.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\obj\Debug\SimpleDecrypt.Form1.resources
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\obj\Debug\SimpleDecrypt.Properties.Resources.resources
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\obj\Debug\SimpleDecrypt.csproj.GenerateResource.Cache
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\obj\Debug\SimpleDecrypt.exe
+C:\Users\Henry\Desktop\Simple Decrypt\SimpleDecrypt\SimpleDecrypt\obj\Debug\SimpleDecrypt.pdb

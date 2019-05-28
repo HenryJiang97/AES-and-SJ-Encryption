@@ -1,0 +1,11 @@
+C:\Users\Henry\Desktop\Encode\obj\Debug\netcoreapp2.1\Encode.csprojAssemblyReference.cache
+C:\Users\Henry\Desktop\Encode\obj\Debug\netcoreapp2.1\Encode.csproj.CoreCompileInputs.cache
+C:\Users\Henry\Desktop\Encode\obj\Debug\netcoreapp2.1\Encode.AssemblyInfoInputs.cache
+C:\Users\Henry\Desktop\Encode\obj\Debug\netcoreapp2.1\Encode.AssemblyInfo.cs
+C:\Users\Henry\Desktop\Encode\bin\Debug\netcoreapp2.1\Encode.deps.json
+C:\Users\Henry\Desktop\Encode\bin\Debug\netcoreapp2.1\Encode.runtimeconfig.json
+C:\Users\Henry\Desktop\Encode\bin\Debug\netcoreapp2.1\Encode.runtimeconfig.dev.json
+C:\Users\Henry\Desktop\Encode\bin\Debug\netcoreapp2.1\Encode.dll
+C:\Users\Henry\Desktop\Encode\bin\Debug\netcoreapp2.1\Encode.pdb
+C:\Users\Henry\Desktop\Encode\obj\Debug\netcoreapp2.1\Encode.dll
+C:\Users\Henry\Desktop\Encode\obj\Debug\netcoreapp2.1\Encode.pdb
